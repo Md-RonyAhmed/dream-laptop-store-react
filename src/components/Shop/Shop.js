@@ -9,13 +9,18 @@ const Shop = () => {
       fetch('data.json')
          .then(res => res.json())
          .then(data => setLaptops(data));
-   }, [laptops])
-   
+   }, [laptops]);
+
+   const handleAddToCart = (product) => {
+     
+  }
    return (
      <div className="shop-container">
        <div className="products-container">
          {laptops.map((product) => (
-           <Product product={product} key={product.id} />
+            <Product product={product}
+               key={product.id}
+               handleAddToCart={handleAddToCart} />
          ))}
        </div>
        <div className="cart-container">
