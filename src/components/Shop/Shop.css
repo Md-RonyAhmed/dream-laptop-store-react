@@ -1,4 +1,10 @@
-/* .shop-container{
+.shop-container{
    display: grid;
    grid-template-columns: 3fr 1fr;
-} */
+   grid-gap: 4px;
+}
+.products-container{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   grid-gap: 4px;
+}

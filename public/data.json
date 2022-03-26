@@ -4,14 +4,14 @@
     "name": "MacBook pro rainbow",
     "brand": "Apple",
     "price": 1250,
-    "pic": "/src/images/macrainbow.jpg"
+    "pic": "./images/macrainbow.jpg"
   },
   {
     "id": 102,
     "name": "MacBook pro mini",
     "brand": "Apple",
     "price": 1130,
-    "pic": "/src/images/macpro.jpg"
+    "pic": "./images/macpro.jpg"
   },
   {
     "id": 103,
