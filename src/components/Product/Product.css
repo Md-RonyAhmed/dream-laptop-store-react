@@ -1,4 +1,19 @@
+.product{
+   border: 1px solid gray;
+   border-radius: 5px;
+   padding: 8px;
+   margin-left: 9px;
+   height: 450px;
+   position: relative;
+}
 .product img{
    height: 270px;
    width: 280px;
+   border-radius: 5px;
+   margin-bottom: 5px;
+}
+.product button{
+   position: absolute;
+   bottom: 0;
+   left: 0;
 }
