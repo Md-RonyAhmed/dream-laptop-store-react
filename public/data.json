@@ -1,98 +1,86 @@
 [
   {
     "id": 101,
-    "name": "Mr. jack",
-    "gender": "tom",
-    "age": "2 Years",
-    "price": 5000,
-    "pic": "./images/cat1.jpg"
+    "name": "MacBook pro rainbow",
+    "brand": "Apple",
+    "price": 1250,
+    "pic": "/src/images/macrainbow.jpg"
   },
   {
     "id": 102,
-    "name": "lili-cat",
-    "gender": "queen",
-    "age": "1.5 Years",
-    "price": 5000,
-    "pic": "./images/cat2.jpg"
+    "name": "MacBook pro mini",
+    "brand": "Apple",
+    "price": 1130,
+    "pic": "/src/images/macpro.jpg"
   },
   {
     "id": 103,
-    "name": "chocolate-boy",
-    "gender": "tom",
-    "age": "1.8 Years",
-    "price": 5000,
-    "pic": "./images/cat3.jpg"
+    "name": "MacBook air mini",
+    "brand": "Apple",
+    "price": 1200,
+    "pic": "./images/macair.jpg"
   },
   {
     "id": 104,
-    "name": "Don",
-    "gender": "tom",
-    "age": "",
-    "price": 5000,
-    "pic": "./images/cat4.jpg"
+    "name": "Asus Zenbook pro",
+    "brand": "Asus",
+    "price": 1080,
+    "pic": "./images/asus1.jpg"
   },
   {
     "id": 105,
-    "name": "alia bat",
-    "gender": "queen",
-    "age": "2.10 Years",
-    "price": 5000,
-    "pic": "./images/cat5.jpg"
+    "name": "Asus Znebook mini",
+    "brand": "Asus",
+    "price": 950,
+    "pic": "./images/asusmini.jpg"
   },
   {
     "id": 106,
-    "name": "shahrukh khan",
-    "gender": "tom",
-    "age": "3 Years",
-    "price": 5000,
-    "pic": "./images/cat6.jpg"
+    "name": "Asus vivoBook pro",
+    "brand": "Asus",
+    "price": 1150,
+    "pic": "./images/asus-zen.jpg"
   },
   {
     "id": 107,
-    "name": "Sallu",
-    "gender": "tom",
-    "age": "1.2 Years",
-    "price": 5000,
-    "pic": "./images/cat7.jpg"
+    "name": "Dell Inspiron 15",
+    "brand": "Dell",
+    "price": 850,
+    "pic": "./images/dell.jpg"
   },
   {
     "id": 108,
-    "name": "sakib khan",
-    "gender": "tom",
-    "age": "1.9 Years",
-    "price": 5000,
-    "pic": "./images/cat8.jpg"
+    "name": "Dell Vostro 14",
+    "brand": "Dell",
+    "price": 750,
+    "pic": "./images/dell1.jpg"
   },
   {
     "id": 109,
-    "name": "dipjol",
-    "gender": "tom",
-    "age": "2.5 Years",
-    "price": 5000,
-    "pic": "./images/cat9.jpg"
+    "name": "Dell latitude 15",
+    "brand": "Dell",
+    "price": 650,
+    "pic": "./images/dell2.jpg"
   },
   {
     "id": 110,
-    "name": "dipjol",
-    "gender": "tom",
-    "age": "2.5 Years",
-    "price": 5000,
-    "pic": "./images/cat9.jpg"
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "price": 980,
+    "pic": "./images/hp1.jpg"
   },
   {
     "id": 111,
-    "name": "dipjol",
-    "gender": "tom",
-    "age": "2.5 Years",
-    "price": 5000,
-    "pic": "./images/cat9.jpg"
+    "name": "HP Penteron 14",
+    "brand": "HP",
+    "price": 550,
+    "pic": "./images/hp2.jpg"
   },
   {
     "id": 112,
-    "name": "dipjol",
-    "gender": "tom",
-    "age": "2.5 Years",
-    "price": 5000,
-    "pic": "./images/cat9.jpg"
+    "name": "HP Celeron",
+    "brand": "HP",
+    "price": 500,
+    "pic": "./images/hp3.jpg"
   }
 ]
