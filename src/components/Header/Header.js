@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 const Header = () => {
   return (
-    <nav className="bg-light text-black nav justify-content-between align-items-center navigation">
+    <nav className="text-black nav justify-content-between align-items-center navigation">
       <div className="ps-5">
         <h2>Dream Store</h2>
       </div>

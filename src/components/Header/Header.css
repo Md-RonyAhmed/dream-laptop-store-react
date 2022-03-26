@@ -1,6 +1,10 @@
 .navigation{
    height: 70px;
    padding-right: 60px;
+   background-color: beige;
+}
+.navigation h2{
+   color: orange;
 }
 .navigation a{
    text-decoration: none;
