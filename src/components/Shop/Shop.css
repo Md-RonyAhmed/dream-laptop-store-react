@@ -25,12 +25,20 @@
 }
    .cart-container{
       order: 1;
+      margin-right: 20px;
    }
    .products-container{
    margin-top: 10px;
    display: grid;
    grid-template-columns: repeat(1,1fr);
    order: 2;
+   margin-right: 20px;
+}
+.product img{
+   height: 270px;
+   width:100%;
+   border-radius: 5px;
+   margin-bottom: 5px;
 }
 }
 
