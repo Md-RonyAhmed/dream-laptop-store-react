@@ -5,6 +5,7 @@
    margin-left: 9px;
    height: 450px;
    position: relative;
+   background-color: rgba(250, 235, 215, 0.658);
 }
 .product img{
    height: 270px;

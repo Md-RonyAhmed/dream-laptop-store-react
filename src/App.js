@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <Header />
+      <h1 className='text-center text-info'>Welcome to Dream Laptop Store</h1>
       <Shop />
     </div>
   );
