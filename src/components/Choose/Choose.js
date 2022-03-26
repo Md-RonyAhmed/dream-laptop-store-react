@@ -7,7 +7,7 @@ const Choose = (props) => {
          <div>
             <h4>You can Choose: {select.name}</h4>
          </div>
-       <button onClick={()=>randomClick()} className="btn btn-outline-info me-2">Select one</button>
+       <button onClick={()=>randomClick()} className="btn btn-outline-info mb-2">Select one</button>
      </div>
    );
 };
